@@ -12,7 +12,7 @@ Demo: https://hopeful-banach-e9acd3.netlify.app/
 
 ## 使用技術 Technologies
 
-> 採用 MVC 架構來將關注點分離，其中 View 的部分使用 ES6 Class 來實作，再利用 Extends 去 inheritance View 的原型  
+> 採用 MVC 架構來將關注點分離，其中 View 的部分使用 ES6 Class 來實作，再利用 Extends 去 inherite View 的原型  
 
 ![Forkify](https://i.postimg.cc/mrhzqvnc/forkify-architecture-recipe-loading.png)  
 
