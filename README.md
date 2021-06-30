@@ -23,7 +23,7 @@ Demo: https://hopeful-banach-e9acd3.netlify.app/
 
 > 在 Class 中使用 private data 以及 private method 確保資料不會受外部影響
 
-![Forkify](https://i.postimg.cc/TPyjm5fH/image.png) 
+![Forkify](https://i.postimg.cc/8cc5gVyJ/image.png) 
 
 > 採用 DOM Algorithm 來針對需要改變節點做畫面更新，避免不需要的重新渲染
 
